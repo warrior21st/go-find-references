@@ -7,7 +7,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/redefiance/ident"
+	"github.com/warrior21st/ident"
 )
 
 var (
